@@ -1,4 +1,4 @@
-
+# This is Our Mini Project repository
 import os
 import mysql.connector
 from flask import Flask, render_template, request, redirect, url_for, session, send_file, flash
